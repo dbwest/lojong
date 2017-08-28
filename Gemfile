@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-
+#https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.8'
